@@ -25,7 +25,7 @@ NODES=(
 )
 
 WORKFLOWS=(
-    "https://raw.githubusercontent.com/vast-ai/base-image/refs/heads/comfyui-ltxvideo-provisioning/derivatives/pytorch/derivatives/comfyui/workflows/ltx-video-t2v-simple.json"
+    "https://raw.githubusercontent.com/bryanshyf/VastAI/refs/heads/master/Wan2.2-T2V-Workflow.json"
 )
 
 DIFFUSION_MODELS=(
