@@ -11,8 +11,7 @@ APT_PACKAGES=(
 )
 
 PIP_PACKAGES=(
-    #"package-1"
-    #"package-2"
+    "flash-attn==2.0.6"
 )
 
 NODES=(
